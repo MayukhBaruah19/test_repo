@@ -10,4 +10,4 @@ def is_prime(n):
 num = int(input("Enter a number to check if it's prime: "))     
 if is_prime(num):
     print(f"{num} is a prime number.")
-print(f"{num} is not a prime number.")    
+print(f"{num} is not a prime number for all.")    
